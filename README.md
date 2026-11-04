@@ -1,2 +1,2 @@
 # DSA-Project
-The is my first project after creating GitHub.
+My first step into building practical projects.
